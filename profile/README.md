@@ -11,10 +11,6 @@ Start with **[Orbit](https://github.com/constellation-works/orbit)** — durable
 | Project | What it does |
 | --- | --- |
 | [Orbit](https://github.com/constellation-works/orbit) | Task management and orchestration for AI coding agents. |
-| [Orbit Research](https://github.com/constellation-works/orbit-research) | Scientific claims, protocols, evidence, and reproducible research workflows. |
-| [Orbit Graph](https://github.com/constellation-works/orbit-graph) | Standalone code graph indexing and queries. |
-| [Orrery](https://github.com/constellation-works/orrery) | Interactive physics simulations and computational experiments. |
-| [Nebula](https://github.com/constellation-works/nebula) | Capture ideas and trace how they connect and evolve. |
 
 ### How we build
 
