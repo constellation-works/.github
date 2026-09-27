@@ -11,6 +11,7 @@ Start with **[Orbit](https://github.com/constellation-works/orbit)** — durable
 | Project | What it does |
 | --- | --- |
 | [Orbit](https://github.com/constellation-works/orbit) | Task management and orchestration for AI coding agents. |
+| [Pulsar](https://github.com/constellation-works/pulsar) | Lets agents post to X as a human-authorized account, without ever holding a credential. |
 
 ### How we build
 
